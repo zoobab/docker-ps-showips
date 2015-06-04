@@ -1,5 +1,5 @@
-About dps
-=========
+About DockerPS (dps)
+====================
 
 It is a simple script to display IP addresses of each running container.
 
